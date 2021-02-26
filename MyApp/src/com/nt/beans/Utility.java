@@ -11,4 +11,9 @@ public class Utility {
 	public void m4() {
 		System.out.println("asdfghjk");
 	}
+
+	public void m3() {
+		System.out.println("ASDFGHJKL");
+
+	}
 }
